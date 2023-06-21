@@ -1,4 +1,4 @@
-# Welcome to Streamlit!
+# Welcome to Streamlit Example!
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
 
